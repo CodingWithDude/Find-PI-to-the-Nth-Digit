@@ -1,5 +1,4 @@
 '''
-
 Find PI to the Nth Digit
 
 Enter a number and have the program generate pi up to that many decimal places.
